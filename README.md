@@ -19,4 +19,4 @@ I implemented the program with different JAVARDD functions such as:
 * groupBy()
 * groupByKey()
 
-All borrowed from the Spark documentation.
+All borrowed from the Spark documentation ![BER](https://spark.apache.org/docs/latest/submitting-applications.html#master-urls).
