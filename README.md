@@ -11,7 +11,7 @@ Installing IntelliJ IDEA 2020.3.4
 Setting up Spark configurations in IntelliJ.
 Running the build.gradle file.
 ```
-I implemented the program with different JAVARDD functions such as:
+I implemented the program with different JavaRDD processing map-reduce functions such as:
 
 * flatMapToPair()
 * mapPartitionsToPair()
