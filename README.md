@@ -13,8 +13,10 @@ Running the build.gradle file.
 ```
 I implemented the program with different JAVARDD functions such as:
 
-flatMapToPair()
-mapToPair()
-groupByKey()
+* flatMapToPair()
+* mapPartitionsToPair()
+* mapToPair()
+* groupBy()
+* groupByKey()
 
 All borrowed from the Spark documentation.
